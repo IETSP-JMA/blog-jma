@@ -9,7 +9,7 @@ La inteligencia artificial (IA) puede ser una herramienta valiosa en el campo de
 
 La IA también puede ayudar a los educadores a analizar y evaluar el progreso de los estudiantes, lo que les permite identificar rápidamente las áreas en las que un estudiante puede necesitar ayuda adicional y adaptar la enseñanza en consecuencia.
 
-Además, la IA puede ser utilizada para desarrollar material educativo más atractivo y engañoso, lo que puede ayudar a mantener a los estudiantes interesados y comprometidos en su aprendizaje.
+Además, la IA puede ser utilizada para desarrollar material educativo más atractivo, lo que puede ayudar a mantener a los estudiantes interesados y comprometidos en su aprendizaje.
 
 Un estudio realizado por la Universidad de Stanford en 2016 encontró que los estudiantes que utilizaron un sistema educativo basado en IA mejoraron significativamente sus resultados en comparación con aquellos que recibieron una educación tradicional.
 
