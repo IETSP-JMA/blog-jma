@@ -2,7 +2,7 @@
 slug: cultivos-transgenicos
 title: Los Cultivos Trangenicos
 authors:
-  name: martin hualpa garcia
+  name: Martin Hualpa Garcia
   title: Ing. Agronomo, Docente Produccion Agropecuaria
   url: https://www.facebook.com/ZzMARTINzZ
   image_url: https://scontent.flim8-1.fna.fbcdn.net/v/t1.6435-9/124981417_5054913241246575_1083249356262930909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9ErEJXxymCoAX81scJz&_nc_oc=AQmsvPz9xH862rfStGOBhRnhtJJhjFR31qWF9qojUJUVLSoqu9O6ODigJU12PAMlWKU&_nc_ht=scontent.flim8-1.fna&oh=00_AfDRKURradKv6CLI-Fx4ZMvq2vCgv4DjNX3SeBQQUPDg1Q&oe=63BEA94D
