@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Facil uso',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        El Blog y Manuales estan estructurados de tal manera que sea facil acceder a ellos.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Concentrese en lo que importa',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        En esta web eliminamos cualquier distraccion e Informacion irrelevante para que el lector solo se centre en lo que realmente importa.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Por Estudiantes para Estudiantes',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Toda la Informacion esta estrucutrada, segmentada y desarrollada por Estudiantes, para el uso de los propios estudiantes.
       </>
     ),
   },
