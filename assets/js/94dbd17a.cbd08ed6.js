@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[880],{2308:a=>{a.exports=JSON.parse('{"label":"agropecuaria","permalink":"/blog/blog/tags/agropecuaria","allTagsPath":"/blog/blog/tags","count":1}')}}]);
