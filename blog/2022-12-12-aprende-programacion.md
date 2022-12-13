@@ -5,9 +5,8 @@ authors: jalvarez
 tags: [educacion, programacion]
 ---
 
-<!--truncate-->
 
-La programación es una habilidad valiosa en la actualidad, ya que nos permite crear y desarrollar aplicaciones y sistemas que nos facilitan la vida y nos permiten resolver problemas de manera eficiente. Aprender a programar nos brinda la oportunidad de convertirnos en emprendedores y desarrolladores de tecnología, lo que puede resultar en una carrera altamente rentable y satisfactoria.
+La programación es una habilidad valiosa en la actualidad, ya que nos permite crear y desarrollar aplicaciones y sistemas que nos facilitan la vida y nos permiten resolver problemas de manera eficiente.<!--truncate--> Aprender a programar nos brinda la oportunidad de convertirnos en emprendedores y desarrolladores de tecnología, lo que puede resultar en una carrera altamente rentable y satisfactoria.
 
 Además, la programación nos enseña habilidades valiosas como el pensamiento lógico, la resolución de problemas y la capacidad de trabajar en equipo. Estas habilidades son transferibles a cualquier campo y nos ayudan a ser más productivos y eficientes en nuestro trabajo y en nuestra vida cotidiana.
 

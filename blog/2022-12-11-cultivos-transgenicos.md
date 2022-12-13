@@ -5,11 +5,10 @@ authors:
   name: Martin Hualpa Garcia
   title: Ing. Agronomo, Docente Produccion Agropecuaria
   url: https://www.facebook.com/ZzMARTINzZ
-  image_url: https://scontent.flim8-1.fna.fbcdn.net/v/t1.6435-9/124981417_5054913241246575_1083249356262930909_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=9ErEJXxymCoAX81scJz&_nc_oc=AQmsvPz9xH862rfStGOBhRnhtJJhjFR31qWF9qojUJUVLSoqu9O6ODigJU12PAMlWKU&_nc_ht=scontent.flim8-1.fna&oh=00_AfDRKURradKv6CLI-Fx4ZMvq2vCgv4DjNX3SeBQQUPDg1Q&oe=63BEA94D
+  image_url: https://scontent.flim8-1.fna.fbcdn.net/v/t1.6435-9/124573081_5054875341250365_1365202836283902660_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=M0GuZfmbAPMAX8LhA1y&_nc_ht=scontent.flim8-1.fna&oh=00_AfAADXuELMPkwbCMaJVc4s0FJ_SErTNT9yW5c3BNWhCvhw&oe=63BEFCA1
 tags: [mejoramiento genetico, agropecuaria]
 ---
-
-Los cultivos transgénicos son plantas que han sido modificadas genéticamente para tener ciertas características deseadas. Estas características pueden ser muy diversas, desde mejorar la resistencia a ciertas enfermedades o plagas hasta aumentar el contenido nutricional de los alimentos.
+Los cultivos transgénicos son plantas que han sido modificadas genéticamente para tener ciertas características deseadas.<!--truncate--> Estas características pueden ser muy diversas, desde mejorar la resistencia a ciertas enfermedades o plagas hasta aumentar el contenido nutricional de los alimentos.
 
 Una de las principales ventajas de los cultivos transgénicos es que pueden ayudar a aumentar la producción de alimentos en un mundo con una población cada vez más grande. Además, los cultivos transgénicos también pueden ser más resistentes a ciertas condiciones ambientales difíciles, lo que puede ayudar a reducir la pérdida de cosechas debido a sequías o enfermedades.
 

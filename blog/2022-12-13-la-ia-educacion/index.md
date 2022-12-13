@@ -5,7 +5,7 @@ authors: [jalvarez, jarvicha]
 tags: [educacion, inteligencia artificial]
 ---
 ![inteligencia artifical en la educacion](./inteligencia-artificial.jpg)
-La inteligencia artificial (IA) puede ser una herramienta valiosa en el campo de la educación. La IA puede ayudar a personalizar la enseñanza para cada estudiante, adaptando el contenido y el ritmo del aprendizaje a las necesidades individuales de cada uno. Esto puede ayudar a mejorar los resultados de aprendizaje y aumentar la motivación de los estudiantes.
+La inteligencia artificial (IA) puede ser una herramienta valiosa en el campo de la educación. La IA puede ayudar a personalizar la enseñanza para cada estudiante, adaptando el contenido y el ritmo del aprendizaje a las necesidades individuales de cada uno.<!--truncate--> Esto puede ayudar a mejorar los resultados de aprendizaje y aumentar la motivación de los estudiantes.
 
 La IA también puede ayudar a los educadores a analizar y evaluar el progreso de los estudiantes, lo que les permite identificar rápidamente las áreas en las que un estudiante puede necesitar ayuda adicional y adaptar la enseñanza en consecuencia.
 
