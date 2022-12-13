@@ -9,7 +9,7 @@ const config = {
   title: 'Blog JMA',
   tagline: 'Blog del instituto Superior Tecnologica JMA',
   url: 'https://IETSP-JMA.github.io/',
-  baseUrl: '/',
+  baseUrl: '/blog-jma',
   deploymentBranch:'gh-pages',
   trailingSlash: false,
 
