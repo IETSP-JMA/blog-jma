@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://IETSP-JMA.github.io/blog</id>
+    <id>https://IETSP-JMA.github.io/blog-jma/blog</id>
     <title>Blog JMA Blog</title>
     <updated>2022-12-13T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://IETSP-JMA.github.io/blog"/>
+    <link rel="alternate" href="https://IETSP-JMA.github.io/blog-jma/blog"/>
     <subtitle>Blog JMA Blog</subtitle>
-    <icon>https://IETSP-JMA.github.io/img/favicon.ico</icon>
+    <icon>https://IETSP-JMA.github.io/blog-jma/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[La Inteligencia Artificial y su Importancia en la Educacion]]></title>
         <id>ia-educacion</id>
-        <link href="https://IETSP-JMA.github.io/blog/ia-educacion"/>
+        <link href="https://IETSP-JMA.github.io/blog-jma/blog/ia-educacion"/>
         <updated>2022-12-13T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[inteligencia artifical en la educacion]]></summary>
-        <content type="html"><![CDATA[<p><img loading="lazy" alt="inteligencia artifical en la educacion" src="/assets/images/inteligencia-artificial-a7d454637f4daa5d3519e14e12255dbc.jpg" width="681" height="383" class="img_ev3q">
+        <content type="html"><![CDATA[<p><img loading="lazy" alt="inteligencia artifical en la educacion" src="/blog-jma/assets/images/inteligencia-artificial-a7d454637f4daa5d3519e14e12255dbc.jpg" width="681" height="383" class="img_ev3q">
 La inteligencia artificial (IA) puede ser una herramienta valiosa en el campo de la educación. La IA puede ayudar a personalizar la enseñanza para cada estudiante, adaptando el contenido y el ritmo del aprendizaje a las necesidades individuales de cada uno.<!-- --> Esto puede ayudar a mejorar los resultados de aprendizaje y aumentar la motivación de los estudiantes.</p><p>La IA también puede ayudar a los educadores a analizar y evaluar el progreso de los estudiantes, lo que les permite identificar rápidamente las áreas en las que un estudiante puede necesitar ayuda adicional y adaptar la enseñanza en consecuencia.</p><p>Además, la IA puede ser utilizada para desarrollar material educativo más atractivo, lo que puede ayudar a mantener a los estudiantes interesados y comprometidos en su aprendizaje.</p><p>Un estudio realizado por la Universidad de Stanford en 2016 encontró que los estudiantes que utilizaron un sistema educativo basado en IA mejoraron significativamente sus resultados en comparación con aquellos que recibieron una educación tradicional.</p><p>En resumen, la IA puede ser una herramienta valiosa en la educación, ya que puede ayudar a personalizar el aprendizaje, mejorar la evaluación del progreso de los estudiantes y desarrollar material educativo más atractivo.</p><p><a href="https://web.stanford.edu/~cpiech/bio/papers/aiEducation.pdf" target="_blank" rel="noopener noreferrer">Link del estudio mencionado</a></p>]]></content>
         <author>
             <name>Jose Luis Alvarez Escobar</name>
@@ -29,7 +29,7 @@ La inteligencia artificial (IA) puede ser una herramienta valiosa en el campo de
     <entry>
         <title type="html"><![CDATA[La Importancia de Aprender Programacion]]></title>
         <id>Aprender Programacion</id>
-        <link href="https://IETSP-JMA.github.io/blog/Aprender Programacion"/>
+        <link href="https://IETSP-JMA.github.io/blog-jma/blog/Aprender Programacion"/>
         <updated>2022-12-12T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[La programación es una habilidad valiosa en la actualidad, ya que nos permite crear y desarrollar aplicaciones y sistemas que nos facilitan la vida y nos permiten resolver problemas de manera eficiente. Aprender a programar nos brinda la oportunidad de convertirnos en emprendedores y desarrolladores de tecnología, lo que puede resultar en una carrera altamente rentable y satisfactoria.]]></summary>
         <content type="html"><![CDATA[<p>La programación es una habilidad valiosa en la actualidad, ya que nos permite crear y desarrollar aplicaciones y sistemas que nos facilitan la vida y nos permiten resolver problemas de manera eficiente.<!-- --> Aprender a programar nos brinda la oportunidad de convertirnos en emprendedores y desarrolladores de tecnología, lo que puede resultar en una carrera altamente rentable y satisfactoria.</p><p>Además, la programación nos enseña habilidades valiosas como el pensamiento lógico, la resolución de problemas y la capacidad de trabajar en equipo. Estas habilidades son transferibles a cualquier campo y nos ayudan a ser más productivos y eficientes en nuestro trabajo y en nuestra vida cotidiana.</p><p>Aprender un lenguaje de programación también nos permite tener una mejor comprensión de cómo funcionan las tecnologías que usamos a diario, lo que nos permite ser más críticos y conscientes de nuestro uso de la tecnología. Además, nos permite participar activamente en el desarrollo de estas tecnologías y contribuir a su evolución.</p><p>En resumen, aprender a programar es una habilidad valiosa en la actualidad que nos brinda oportunidades en el campo laboral y en nuestra vida cotidiana. Además, nos permite desarrollar habilidades valiosas y tener una mejor comprensión de cómo funcionan las tecnologías que usamos.</p>]]></content>
@@ -43,7 +43,7 @@ La inteligencia artificial (IA) puede ser una herramienta valiosa en el campo de
     <entry>
         <title type="html"><![CDATA[Los Cultivos Trangenicos]]></title>
         <id>cultivos-transgenicos</id>
-        <link href="https://IETSP-JMA.github.io/blog/cultivos-transgenicos"/>
+        <link href="https://IETSP-JMA.github.io/blog-jma/blog/cultivos-transgenicos"/>
         <updated>2022-12-11T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Los cultivos transgénicos son plantas que han sido modificadas genéticamente para tener ciertas características deseadas. Estas características pueden ser muy diversas, desde mejorar la resistencia a ciertas enfermedades o plagas hasta aumentar el contenido nutricional de los alimentos.]]></summary>
         <content type="html"><![CDATA[<p>Los cultivos transgénicos son plantas que han sido modificadas genéticamente para tener ciertas características deseadas.<!-- --> Estas características pueden ser muy diversas, desde mejorar la resistencia a ciertas enfermedades o plagas hasta aumentar el contenido nutricional de los alimentos.</p><p>Una de las principales ventajas de los cultivos transgénicos es que pueden ayudar a aumentar la producción de alimentos en un mundo con una población cada vez más grande. Además, los cultivos transgénicos también pueden ser más resistentes a ciertas condiciones ambientales difíciles, lo que puede ayudar a reducir la pérdida de cosechas debido a sequías o enfermedades.</p><p>Sin embargo, también hay preocupaciones sobre el uso de cultivos transgénicos. Una de las principales preocupaciones es que los organismos modificados genéticamente pueden causar daño a otras plantas y animales en el ecosistema. También hay preocupaciones sobre la seguridad de los alimentos transgénicos para la salud humana.</p><p>A pesar de estas preocupaciones, los cultivos transgénicos han sido ampliamente utilizados en todo el mundo en los últimos años. La Organización de las Naciones Unidas para la Agricultura y la Alimentación (FAO) estima que en 2019, el 22% de la superficie total de cultivos en el mundo estaba dedicada a cultivos transgénicos.</p><p>En conclusión, los cultivos transgénicos pueden tener ciertas ventajas en términos de producción de alimentos y resistencia a ciertas condiciones ambientales. Sin embargo, también hay preocupaciones sobre su impacto en el ecosistema y la seguridad de los alimentos transgénicos para la salud humana.</p>]]></content>

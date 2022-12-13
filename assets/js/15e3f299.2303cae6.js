@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_blog=self.webpackChunkmy_blog||[]).push([[248],{5749:e=>{e.exports=JSON.parse('{"label":"mejoramiento genetico","permalink":"/blog-jma/blog/tags/mejoramiento-genetico","allTagsPath":"/blog-jma/blog/tags","count":1}')}}]);
